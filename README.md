@@ -12,6 +12,16 @@ There are no accounts, no ads and no internet connection. Everything stays on yo
 
 *Designed and developed by **Aadit Guglani**. Built with AI-assisted development (Claude by Anthropic).*
 
+<p align="center"><img src="glow.png" alt="Solace timer with the ambient glow around the screen edges" width="820"><br><sub>Focus timer with the ambient glow on.</sub></p>
+
+| Syllabus tracker | To-do lists |
+|---|---|
+| <img src="syllabus.png" alt="Syllabus tracker with chapter progress" width="400"> | <img src="todo.png" alt="Multiple to-do lists" width="400"> |
+
+| Exam countdown | Notch timer |
+|---|---|
+| <img src="exams.png" alt="Days until Boards countdown" width="400"> | <img src="notch.png" alt="Timer next to the MacBook notch, expanded on hover" width="400"> |
+
 ---
 
 ## Features
