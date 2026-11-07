@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>Solace</string>
+    <key>CFBundleDisplayName</key><string>Solace</string>
+    <key>CFBundleExecutable</key><string>Solace</string>
+    <key>CFBundleIdentifier</key><string>com.aaditguglani.solace</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.1</string>
+    <key>CFBundleVersion</key><string>2</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>15.0</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.education</string>
+    <key>NSHumanReadableCopyright</key><string>© 2026 Aadit Guglani. Designed and developed by Aadit Guglani.</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Solace reads the current song and album art from Apple Music to colour the ambient light.</string>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>Solace measures how loud the music is so the ambient light can pulse with the beat. Nothing is recorded or saved.</string>
+</dict>
+</plist>
