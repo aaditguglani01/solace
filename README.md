@@ -2,6 +2,10 @@
 
 **A free, minimalist study companion for Mac.**
 
+[![Download](https://img.shields.io/badge/Download-Solace.zip-white?style=for-the-badge&labelColor=black)](https://github.com/aaditguglani01/solace/releases/latest/download/Solace.zip)
+[![Downloads](https://img.shields.io/github/downloads/aaditguglani01/solace/total?style=for-the-badge&label=downloads&color=white&labelColor=black)](https://github.com/aaditguglani01/solace/releases)
+[![Release](https://img.shields.io/github/v/release/aaditguglani01/solace?style=for-the-badge&color=white&labelColor=black)](https://github.com/aaditguglani01/solace/releases/latest)
+
 Solace keeps a student's day in one calm, pitch-black window. You can plan your syllabus subject by subject and track every chapter and revision with live progress percentages. A timer, Pomodoro or stopwatch keeps you on task, and you can see how many days are left until your next exam. You can also keep separate to-do lists for school and everything else.
 
 There are no accounts, no ads and no internet connection. Everything stays on your Mac.
@@ -53,7 +57,7 @@ There are no accounts, no ads and no internet connection. Everything stays on yo
 
 **Requirements:** macOS 15 or newer and an Apple Silicon Mac (M1 or later).
 
-1. Download **Solace.zip** from the [latest release](../../releases/latest).
+1. Download **[Solace.zip](https://github.com/aaditguglani01/solace/releases/latest/download/Solace.zip)** (latest release).
 2. Double-click it to unzip, then drag **Solace** into **Applications**.
 3. Open Solace. macOS will say it can't verify the developer, because Solace is a free student project and isn't notarized by Apple. Click **Done**.
 4. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
@@ -72,8 +76,8 @@ Solace has no network code at all. Your lists, syllabus, exams and study time ar
 Requires Apple's free Command Line Tools (`xcode-select --install`).
 
 ```bash
-git clone <this repository's URL>
-cd Solace
+git clone https://github.com/aaditguglani01/solace.git
+cd solace
 ./build.sh          # → build/Solace.app and build/Solace.zip
 ```
 
