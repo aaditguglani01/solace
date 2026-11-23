@@ -5,10 +5,13 @@
 [![Download](https://img.shields.io/badge/Download-Solace.zip-white?style=for-the-badge&labelColor=black)](https://github.com/aaditguglani01/solace/releases/latest/download/Solace.zip)
 [![Downloads](https://img.shields.io/github/downloads/aaditguglani01/solace/total?style=for-the-badge&label=downloads&color=white&labelColor=black)](https://github.com/aaditguglani01/solace/releases)
 [![Release](https://img.shields.io/github/v/release/aaditguglani01/solace?style=for-the-badge&color=white&labelColor=black)](https://github.com/aaditguglani01/solace/releases/latest)
+[![Feedback](https://img.shields.io/badge/Give%20Feedback-2%20min-white?style=for-the-badge&labelColor=black)](https://forms.gle/NnGue15HiZ1Y7W1u5)
 
 Solace keeps a student's day in one calm, pitch-black window. You can plan your syllabus subject by subject and track every chapter and revision with live progress percentages. A timer, Pomodoro or stopwatch keeps you on task, and you can see how many days are left until your next exam. You can also keep separate to-do lists for school and everything else.
 
 There are no accounts, no ads and no internet connection. Everything stays on your Mac.
+
+**Tried Solace? [Tell me what you think](https://forms.gle/NnGue15HiZ1Y7W1u5). It takes 2 minutes and decides what I fix and build next.**
 
 *Designed and developed by **Aadit Guglani**. Built with AI-assisted development (Claude by Anthropic).*
 
